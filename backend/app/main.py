@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import os
+
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -8,11 +10,16 @@ from .repository import list_papers, load_paper, to_public_paper
 from .scoring import score_submission
 
 
+def _get_allowed_origins() -> list[str]:
+    raw_origins = os.getenv("CORS_ORIGINS", "http://localhost:5173")
+    return [origin.strip() for origin in raw_origins.split(",") if origin.strip()]
+
+
 app = FastAPI(title="CAT Exam App")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=_get_allowed_origins(),
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

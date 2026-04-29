@@ -1,6 +1,7 @@
 import type { Paper, PaperSummary, SubmitResponse } from "./types";
 
-const API_BASE = "http://localhost:8000/api";
+const rawApiBase = import.meta.env.VITE_API_BASE_URL ?? "http://localhost:8000/api";
+const API_BASE = rawApiBase.replace(/\/+$/, "");
 
 export async function fetchPapers(): Promise<PaperSummary[]> {
   const response = await fetch(`${API_BASE}/papers`);

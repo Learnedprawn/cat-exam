@@ -37,6 +37,7 @@ Set `VITE_API_BASE_URL` in `frontend/.env` when the backend is not running on `h
 ### Backend on Render
 
 The repo includes [render.yaml](/home/learnedprawn/Work/Ideas/cat-exam/render.yaml) for a web service rooted at `backend/`.
+The backend is pinned to Python `3.11.9` to avoid `pydantic-core` falling back to a source build on unsupported newer runtimes.
 
 Required settings:
 
@@ -45,6 +46,8 @@ Build Command: pip install -r requirements.txt
 Start Command: uvicorn app.main:app --host 0.0.0.0 --port $PORT
 Root Directory: backend
 ```
+
+If an existing Render service is still building with Python `3.14`, it is not using the repo pin yet. Re-sync the Blueprint or set the service environment variable `PYTHON_VERSION=3.11.9`, then trigger a fresh deploy.
 
 Required environment variables:
 

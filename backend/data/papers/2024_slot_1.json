@@ -1,0 +1,1525 @@
+{
+  "paper_id": "2024_slot_1",
+  "year": 2024,
+  "slot": 1,
+  "sets": [
+    {
+      "set_id": "set_1_ff968ba5cb9a",
+      "section": "VARC",
+      "shared_context": "DIRECTIONS for questions 1 to 4: The passage below is accompanied by a set of questions. Choose the best answer to each question. In the summer of 2022, subscribers to the US streaming service HBO MAX were alarmed to discover that dozens of the platform’s offerings — from the Covid-themed heist thriller Locked Down to the recent remake of The Witches — had been quietly removed from the service . . . The news seemed like vindication to those who had long warned that streaming was more about controlling access to the cultural commons than expanding it, as did reports (since denied by the show’s creators) that Netflix had begun editing old episodes of Stranger Things to retroactively improve their visual effects. What's less clear is whether the commonly prescribed cure for these cultural ills — a return to the material pleasures of physical media — is the right one. While the makers of Blu-ray discs claim they have a shelf life of 100 years, such statistics remain largely theoretical until they come to pass, and are dependent on storage conditions, not to mention the continued availability of playback equipment. The humble DVD has already proved far less resilient, with many early releases already beginning to deteriorate in quality Digital movie purchases provide even less security. Any film “bought” on iTunes could disappear if you move to another territory with a different rights agreement and try to redownload it. It’s a bold new frontier in the commodification of art: the birth of the product recall. After a man took to Twitter to bemoan losing access to Cars 2 after moving from Canada to Australia, Apple clarified that users who downloaded films to their devices would retain permanent access to those downloads, even if they relocated to a hemisphere where the [content was] subject to a different set of rights agreements. Thanks to the company’s ironclad digital rights management technology, however, such files cannot be moved or backed up, locking you into watching with your Apple account. Anyone who does manage to acquire Digital Rights Management free (DRM-free) copies of their favourite films must nonetheless grapple with ever-changing file format standards, not to mention data decay — the gradual process by which electronic information slowly but surely corrupts. Only the regular migration of files from hard drive to hard drive can delay the inevitable, in a sisyphean battle against the ravages of digital time. In a sense, none of this is new. Charlie Chaplin burned the negative of his 1926 film A Woman of the Sea as a tax write-off. Many more films have been lost through accident, negligence or plain indifference. During a heat wave in July 1937, a Fox film vault in New Jersey burned down, destroying a majority of the silent films produced by the studio. Back then, at least, cinema was defined by its ephemerality: the sense that a film was as good as gone once it left your local cinema. Today, with film studios keen to stress the breadth of their back catalogues (or to put in Hollywood terms, the value of their IPs), audiences may start to wonder why those same studios seem happy to set the vault alight themselves if it'll help next quarter’s numbers.",
+      "questions": [
+        {
+          "question_id": "q_1_9218bb6caded",
+          "question_number": 1,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "“Netflix had begun editing old episodes of Stranger Things to retroactively improve their visual effects.” What is the purpose of this example used in the passage?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "To show that art in the digital age, specifically film, is no longer sacrosanct, and may be changed to suit changing tastes or technology."
+            },
+            {
+              "option_id": "B",
+              "option_text": "To show that streaming services are controlling access to the cultural commons rather than expanding it."
+            },
+            {
+              "option_id": "C",
+              "option_text": "To show how unsubstantiated reports are leading to an increase in the level of distrust towards streaming services."
+            },
+            {
+              "option_id": "D",
+              "option_text": "To show a practice that justifies the fears of people who feel streaming services cannot be trusted to be custodians of cultural artefacts like film."
+            }
+          ],
+          "correct_answer": "D"
+        },
+        {
+          "question_id": "q_2_099cf810bd27",
+          "question_number": 2,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "Which one of the following statements, if true, would best invalidate the main argument of the passage?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Improved cloud storage services have made it possible for movie collections to now be preserved in perpetuity, without the need to keep migrating the files."
+            },
+            {
+              "option_id": "B",
+              "option_text": "When moving to a different geographical location, customers can easily use Virtual Private Networks (VPNs) to bypass geo-blocking and regain access to their content on any streaming service."
+            },
+            {
+              "option_id": "C",
+              "option_text": "Recent research has irrefutably proven that Blu-Ray discs have a shelf life of at least 100years."
+            },
+            {
+              "option_id": "D",
+              "option_text": "Studios and streaming services have committed to giving customers"
+            }
+          ],
+          "correct_answer": "D"
+        },
+        {
+          "question_id": "q_3_33fe30f5f7eb",
+          "question_number": 3,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "Which one of the following statements about art best captures the arguments made in the passage?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "In the age of online subscription services, it is time to change our understanding of classic works of art being primarily immutable and easily available to the public."
+            },
+            {
+              "option_id": "B",
+              "option_text": "Accepting retroactive changes to works of art is dangerous because it will encourage creators to not put enough effort into the original attempt, given that they can always edit or update their work later."
+            },
+            {
+              "option_id": "C",
+              "option_text": "Works of art belong to the cultural commons and hence must remain available in perpetuity, irrespective of who pays for access to them."
+            },
+            {
+              "option_id": "D",
+              "option_text": "As art is increasingly created, stored and distributed digitally, access to it is counter intuitively likely to be made more difficult by the rapid churn in technology and the whims of host platforms."
+            }
+          ],
+          "correct_answer": "D"
+        },
+        {
+          "question_id": "q_4_aae8d1912095",
+          "question_number": 4,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "Which of the following statements is suggested by the sentence “Back then, at least, cinema was defined by its ephemerality: the sense that a film was as good as gone once it left your local cinema”?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Today, films are expected to be available for a long time, since they are no longer tied solely to their stay at the local cinema."
+            },
+            {
+              "option_id": "B",
+              "option_text": "Cinema is now no longer as ephemeral as it used to be earlier, because the technology used for creating and preserving films has improved manifold."
+            },
+            {
+              "option_id": "C",
+              "option_text": "Presently, there is no reason why film studios should remove access to films once they have left the local cinema."
+            },
+            {
+              "option_id": "D",
+              "option_text": "Around a century ago, people were more accepting of not having access to films once they left the local cinema."
+            }
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question_id": "q_5_5bbb9b777371",
+          "question_number": 5,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit. Sentence: Comprehending a wide range of emotions, Renaissance music nevertheless portrayed all emotions in a balanced and moderate fashion. Paragraph: A volume of translated Italian madrigals were published in London during the year of 1588. This sudden public interest facilitated a surge of English Madrigal writing as well as a spurt of other secular music writing and publication. __(1)___. This music boom lasted for thirty years and was as much a golden age of music as British literature was with Shakespeare and Queen Elizabeth __(2)__. The rebirth in both literature and music originated in Italy and migrated to England; the English madrigal became more humorous and lighter in England as compared to Italy. Renaissance music was mostly polyphonic in texture. ___(3)___. Extreme use of and contrasts in dynamics, rhythm, and tone colour do not occur. __(4)__. The rhythms in Renaissance music tend to have a smooth, soft flow instead of a sharp, well-defined pulse of accents.",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Option 3"
+            },
+            {
+              "option_id": "B",
+              "option_text": "Option 4"
+            },
+            {
+              "option_id": "C",
+              "option_text": "Option 1"
+            },
+            {
+              "option_id": "D",
+              "option_text": "Option 2"
+            }
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question_id": "q_6_34494b2dfb62",
+          "question_number": 6,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "Cartographers design and create maps to communicate information about phenomena located somewhere on our planet. In the past, cartographers did not worry too much about who was going to read their maps. Although some simple “usability” research was done—like comparing whether circle or bar symbols worked best—cartographers knew how to make maps. This has changed now, however, due to all kinds of societal and technological developments. Today, map readers are more demanding—mostly because of the tools they use to read maps. Cartographers, who are also influenced by these trends, are now more interested in seeing if their products are efficient, effective, and appreciated.",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Maps are being used for a variety of reasons and therefore map readers have become more demanding."
+            },
+            {
+              "option_id": "B",
+              "option_text": "Today, cartographers also need to look into the usability of maps because of the new technological developments."
+            },
+            {
+              "option_id": "C",
+              "option_text": "New technological developments have prompted cartographers to experiment with their maps by applying these new innovations."
+            },
+            {
+              "option_id": "D",
+              "option_text": "Modern mapmakers evaluate a map’s effectiveness efficiency and satisfaction of the user through a series of experiments."
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_7_b3ee00d0663d",
+          "question_number": 7,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "The author questions the ability of crafts to create substantial employment opportunities presently because",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "crafts guilds tend to resist new entrants and are unlikely to accept large numbers of trainees."
+            },
+            {
+              "option_id": "B",
+              "option_text": "regulatory requirements could make it difficult for small crafts outfits to compete."
+            },
+            {
+              "option_id": "C",
+              "option_text": "workers made redundant by automation are unlikely to opt for crafts-related work."
+            },
+            {
+              "option_id": "D",
+              "option_text": "the low scale of crafts production will not be able to absorb the mass of redundant labour."
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_8_33ad68bb188c",
+          "question_number": 8,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "We can infer from the passage that medieval crafts guilds resembled mass production in that both",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "focused excessively on product quality."
+            },
+            {
+              "option_id": "B",
+              "option_text": "discouraged innovation by restricting entry through strict rules."
+            },
+            {
+              "option_id": "C",
+              "option_text": "did not necessarily promote creativity."
+            },
+            {
+              "option_id": "D",
+              "option_text": "did not always employ egalitarian production processes."
+            }
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "question_id": "q_9_e1d50ac69d3b",
+          "question_number": 9,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "The most recent revival in interest in the crafts is a result of the emergence of all of the following EXCEPT:",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "support for individual creations as opposed to mass-produced objects."
+            },
+            {
+              "option_id": "B",
+              "option_text": "a niche market for discerning buyers of quality products."
+            },
+            {
+              "option_id": "C",
+              "option_text": "a greater interest in buying locally produced goods."
+            },
+            {
+              "option_id": "D",
+              "option_text": "concerns about the environmental impact of mass production."
+            }
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question_id": "q_10_999275cf8fa1",
+          "question_number": 10,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "Which one of the following statements is NOT inconsistent with the views stated in the passage?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Creativity in the crafts could be stifled if the market for artisan goods becomes too organised."
+            },
+            {
+              "option_id": "B",
+              "option_text": "The Arts and Crafts movement was initially inspired by the “American system” of production."
+            },
+            {
+              "option_id": "C",
+              "option_text": "We need to support the crafts; only then can we retain the creativity intrinsic to their production."
+            },
+            {
+              "option_id": "D",
+              "option_text": "The agile movement in software is a throwback to the tenets of the medieval crafts guilds."
+            }
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question_id": "q_11_8f2a94df82ad",
+          "question_number": 11,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Animals are more intelligent than us in sensing danger and detecting diseases."
+            },
+            {
+              "option_id": "B",
+              "option_text": "The advanced sensory and motor abilities of animals is the reason why they can display wide-ranging emotions."
+            },
+            {
+              "option_id": "C",
+              "option_text": "The similarity in brain structure explains why animals show emotions typically associated with humans."
+            },
+            {
+              "option_id": "D",
+              "option_text": "Animals can show emotions which are typically associated with humans."
+            }
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "question_id": "q_12_10879aecc406",
+          "question_number": 12,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "According to the text, the western barred bandicoots now have a flattering name because they have",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "led a revival in preserving the species."
+            },
+            {
+              "option_id": "B",
+              "option_text": "led to a surge and increase of rainfall."
+            },
+            {
+              "option_id": "C",
+              "option_text": "grown fivefold in terms of population."
+            },
+            {
+              "option_id": "D",
+              "option_text": "aided in altering an arid environment."
+            }
+          ],
+          "correct_answer": "D"
+        },
+        {
+          "question_id": "q_13_734c1f9ba768",
+          "question_number": 13,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "The text uses the word ‘exclosures’ because Wild Deserts has adopted a measure of",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "ridding the main desert of feral cats and large bilbies."
+            },
+            {
+              "option_id": "B",
+              "option_text": "barring the entry of invasive species."
+            },
+            {
+              "option_id": "C",
+              "option_text": "excluding animals to make the islands predator-free."
+            },
+            {
+              "option_id": "D",
+              "option_text": "restoring cattle damaged deserts to green landscapes."
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_14_6d0ee9b546f8",
+          "question_number": 14,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "Which one of the following options does NOT represent the characteristics of the western barred bandicoot?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Shallow diggers having an elongated muzzle"
+            },
+            {
+              "option_id": "B",
+              "option_text": "Smallest black striped marsupial that uses camouflage and dig"
+            },
+            {
+              "option_id": "C",
+              "option_text": "Look of a rat but with a baby pouch and a slender snout"
+            },
+            {
+              "option_id": "D",
+              "option_text": "Long thin nose, black striped back, pouch for joeys"
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_15_d8d595c225bc",
+          "question_number": 15,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "Which one of the following statements provides a gist of this passage?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "The negligent attitude of the British colonists towards these bandicoots evidenced by the names given to them led to their annihilation."
+            },
+            {
+              "option_id": "B",
+              "option_text": "A type of bandicoots was nearly wiped out by invasive species but rescuers now pin hopes on a remnant island population."
+            },
+            {
+              "option_id": "C",
+              "option_text": "Marsupials are going extinct due to the colonial era transformation of the ecosystem which also destroyed natural vegetation."
+            },
+            {
+              "option_id": "D",
+              "option_text": "The onslaught of animals, such as cattle, rabbits and housecats, brought in by the British led to the extinction of the western barred bandicoot."
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_16_3e431b86fc57",
+          "question_number": 16,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "In the first paragraph the author is making the point that economists like Becker",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "had begun to borrow concepts from other disciplines but were averse to the latter applying economic principles."
+            },
+            {
+              "option_id": "B",
+              "option_text": "benefitted from the application of their principles and concepts to non-economic phenomena."
+            },
+            {
+              "option_id": "C",
+              "option_text": "used economics to analyse non-market behaviour, without incorporating perspectives from other areas of inquiry."
+            },
+            {
+              "option_id": "D",
+              "option_text": "tended to guard their discipline from poaching by academics from other subject areas."
+            }
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "question_id": "q_17_8b99e77021e0",
+          "question_number": 17,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "“Times have changed for the once almighty discipline.” We can infer from this statement and the associated paragraph that the author is being",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "sarcastic about how economists, who earlier shunned other disciplines, are now beginning to incorporate them in their analyses."
+            },
+            {
+              "option_id": "B",
+              "option_text": "critical of economists’ openly borrowing and collaborating across disciplines to explain how humans make decisions."
+            },
+            {
+              "option_id": "C",
+              "option_text": "judgemental about the ability of economic tools to accurately manage crises leading to the downfall of this lofty science."
+            },
+            {
+              "option_id": "D",
+              "option_text": "disparaging of economists’ inability to precisely predict market behaviour, and are now borrowing from other disciplines to remedy this."
+            }
+          ],
+          "correct_answer": "A"
+        },
+        {
+          "question_id": "q_18_848820240c0a",
+          "question_number": 18,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "The author critiques Schiller’s approach to behavioural economics for",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "denigrating the role of institutions while creating a link between behavioural economics and perceptions."
+            },
+            {
+              "option_id": "B",
+              "option_text": "linking emotions and rational behaviour without considering the mediation of social institutions."
+            },
+            {
+              "option_id": "C",
+              "option_text": "ignoring the marginal role that media and politics play in influencing people’s behaviour."
+            },
+            {
+              "option_id": "D",
+              "option_text": "relying excessively on storytelling as the main influence on the formation of perceptions."
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_19_beabd4f3074c",
+          "question_number": 19,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "We can infer from the passage that the term “homo economic us” refers to someone",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "maximises their opportunities based on nonmarket choices."
+            },
+            {
+              "option_id": "B",
+              "option_text": "makes rational decisions based on their own preferences."
+            },
+            {
+              "option_id": "C",
+              "option_text": "believes in borrowing and collaborating with other disciplines in their work."
+            },
+            {
+              "option_id": "D",
+              "option_text": "is not influenced by the preferences and choices of others."
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_20_7e89384eb076",
+          "question_number": 20,
+          "section": "VARC",
+          "question_type": "tita",
+          "question_text": "DIRECTIONS for the question: Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer.",
+          "correct_answer": "1"
+        },
+        {
+          "question_id": "q_23_ab487cdbf6c4",
+          "question_number": 23,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit. Sentence: The brain isn’t organized the way you might set up your home office or bathroom medicine cabinet. Paragraph: ___(1)___. You can’t just put things anywhere you want to. The evolved architecture of the brain is haphazard and disjointed, and incorporates multiple systems, each of which has a mind of its own. __(2)__. Evolution doesn’t design things and it doesn’t build systems—it settles on systems that, historically, conveyed a survival benefit. There is no overarching, grand planner engineering the systems so that they work harmoniously together. __(3)__. The brain is more like a big, old house with piecemeal renovations done on every floor, and less like new construction ___4__.",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Option 3"
+            },
+            {
+              "option_id": "B",
+              "option_text": "Option 1"
+            },
+            {
+              "option_id": "C",
+              "option_text": "Option 2"
+            },
+            {
+              "option_id": "D",
+              "option_text": "Option 4"
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_24_675653499582",
+          "question_number": 24,
+          "section": "VARC",
+          "question_type": "mcq",
+          "question_text": "Sentence: Understanding central Asia’s role helps developments make more sense not only across Asia but in Europe, the Americas and Africa. Paragraph: The nations of the Silk Roads are sometimes called ‘developing countries’, but they are actually some of the world’s most highly developed countries, the very crossroads of civilization, in advanced states of disrepair.__(1)__. These countries lie at the centre of global affairs: they have since the beginning of history. Running across the spine of Asia, they form a web of connections fanning out in every direction, routes along which pilgrims and warriors, nomads and merchants have travelled, goods and produce have been bought and sold, and ideas exchanged, adapted and refined.__(2)__— . They have carried not only prosperity, but also death and violence, disease and disaster.___(3)__. The Silk Roads are the world’s central nervous system, connecting otherwise far-flung peoples and places....___(4)__. It allows us to see patterns and links, causes and effects that remain invisible if one looks only at Europe, or North America.",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "Option 1"
+            },
+            {
+              "option_id": "B",
+              "option_text": "Option 4"
+            },
+            {
+              "option_id": "C",
+              "option_text": "Option 2"
+            },
+            {
+              "option_id": "D",
+              "option_text": "Option 3"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_25_6cfea35249b1",
+      "section": "DILR",
+      "shared_context": "DIRECTIONS for questions 25 to 29: Read the information given below and answer the question that follows The game of QUIET is played between two teams. Six teams, numbered 1, 2, 3, 4, 5, and 6, play in a QUIET tournament. These teams are divided equally into two groups. In the tournament, each team plays every other team in the same group only once, and each team in the other group exactly twice. The tournament has several rounds, each of which consists of a few games. Every team plays exactly one game in each round. The following additional facts are known about the schedule of games in the tournament. 1. Each team played against a team from the other group in Round 8. 2. In Round 4 and Round 7, the match-ups, that is the pair of teams playing against each other, were identical. In Round 5 and Round 8, the match-ups were identical. 3. Team 4 played Team 6 in both Round 1 and Round 2. 4. Team 1 played Team 5 ONLY once and that was in Round 2. 5. Team 3 played Team 4 in Round 3. Team 1 played Team 6 in Round 6. 6. In Round 8, Team 3 played Team 6, while Team 2 played Team 5.",
+      "questions": [
+        {
+          "question_id": "q_25_3f4658af4ed0",
+          "question_number": 25,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "How many rounds were there in the tournament?",
+          "correct_answer": "8"
+        },
+        {
+          "question_id": "q_26_79e73c8993be",
+          "question_number": 26,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "What is the number of the team that played Team 1 in Round 5?",
+          "correct_answer": "4"
+        },
+        {
+          "question_id": "q_27_02d6d7c01496",
+          "question_number": 27,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "Which team among the teams numbered 2, 3, 4, and 5 was not part of the same group?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "4"
+            },
+            {
+              "option_id": "B",
+              "option_text": "5"
+            },
+            {
+              "option_id": "C",
+              "option_text": "3"
+            },
+            {
+              "option_id": "D",
+              "option_text": "2"
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_28_aa793c738ca5",
+          "question_number": 28,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "What is the number of the team that played Team 1 in Round 7?",
+          "correct_answer": "3"
+        },
+        {
+          "question_id": "q_29_f3772c241b4e",
+          "question_number": 29,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "What is the number of the team that played Team 6 in Round 3?",
+          "correct_answer": "5"
+        },
+        {
+          "question_id": "q_30_ee1b6fedbdc9",
+          "question_number": 30,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "How many countries in Asia were visited by at least one of Dheeraj, Samantha and Nitesh?",
+          "correct_answer": "3"
+        },
+        {
+          "question_id": "q_31_31bf4e634c5f",
+          "question_number": 31,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "How many countries in Europe were visited only by Nitesh?",
+          "correct_answer": "2"
+        },
+        {
+          "question_id": "q_32_f4f90d528781",
+          "question_number": 32,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "How many countries in the ROW were visited by both Nitesh and Samantha?",
+          "correct_answer": "4"
+        },
+        {
+          "question_id": "q_33_5c358323869f",
+          "question_number": 33,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "How many countries in Europe were visited by exactly one of Dheeraj, Samantha and Nitesh?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "5"
+            },
+            {
+              "option_id": "B",
+              "option_text": "10"
+            },
+            {
+              "option_id": "C",
+              "option_text": "12"
+            },
+            {
+              "option_id": "D",
+              "option_text": "14"
+            }
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "question_id": "q_34_a90764928ad1",
+          "question_number": 34,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "Daily Share Price Variability (SPV) is defined as (Day’s high price - Day’s low price) /(Average of the opening and closing prices during the day). Which among the shares A, C, D and F had the highest SPV on that day?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "A"
+            },
+            {
+              "option_id": "B",
+              "option_text": "C"
+            },
+            {
+              "option_id": "C",
+              "option_text": "F"
+            },
+            {
+              "option_id": "D",
+              "option_text": "D"
+            }
+          ],
+          "correct_answer": "D"
+        },
+        {
+          "question_id": "q_35_356beff97ffc",
+          "question_number": 35,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "Daily Share Price Variability (SPV) is defined as (Day’s high price - Day’s low price) / (Average of the opening and closing prices during the day). How many shares had an SPV greater than 0.5 on that day?",
+          "correct_answer": "D"
+        },
+        {
+          "question_id": "q_36_8ee53b2c67ae",
+          "question_number": 36,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "Daily loss for a share is defined as (Opening price — Closing price) / (Opening price). Which among the shares A, B, F and G had the highest daily loss on that day?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "G"
+            },
+            {
+              "option_id": "B",
+              "option_text": "F"
+            },
+            {
+              "option_id": "C",
+              "option_text": "A"
+            },
+            {
+              "option_id": "D",
+              "option_text": "B"
+            }
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "question_id": "q_37_081bf9d2eb15",
+          "question_number": 37,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "What would have been the percentage wealth gain for a trader, who bought equal numbers of all bullish shares at opening price and sold them at their day’s high?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "50%"
+            },
+            {
+              "option_id": "B",
+              "option_text": "100%"
+            },
+            {
+              "option_id": "C",
+              "option_text": "72%"
+            },
+            {
+              "option_id": "D",
+              "option_text": "80%"
+            }
+          ],
+          "correct_answer": "D"
+        },
+        {
+          "question_id": "q_38_a08d2bf0958e",
+          "question_number": 38,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "What was the total number of stars received by D?",
+          "correct_answer": "45"
+        },
+        {
+          "question_id": "q_39_d143c5322867",
+          "question_number": 39,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "What was the number of stars received by D from Y?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "10"
+            },
+            {
+              "option_id": "B",
+              "option_text": "0"
+            },
+            {
+              "option_id": "C",
+              "option_text": "5"
+            },
+            {
+              "option_id": "D",
+              "option_text": "cannot be determined"
+            }
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "question_id": "q_40_930622e70d15",
+          "question_number": 40,
+          "section": "DILR",
+          "question_type": "tita",
+          "question_text": "How many surfers distributed their stars among exactly 2 bloggers?",
+          "correct_answer": "2"
+        },
+        {
+          "question_id": "q_42_c1c00be0ef4b",
+          "question_number": 42,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "If both of them run staid campaigns attacking the other, then what percentage of students will vote in the election?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "60%"
+            },
+            {
+              "option_id": "B",
+              "option_text": "64%"
+            },
+            {
+              "option_id": "C",
+              "option_text": "40%"
+            },
+            {
+              "option_id": "D",
+              "option_text": "36%"
+            }
+          ],
+          "correct_answer": "D"
+        },
+        {
+          "question_id": "q_43_d2065b2b485e",
+          "question_number": 43,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "What is the minimum percentage of students who will vote in the election?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "32%"
+            },
+            {
+              "option_id": "B",
+              "option_text": "40%"
+            },
+            {
+              "option_id": "C",
+              "option_text": "36%"
+            },
+            {
+              "option_id": "D",
+              "option_text": "38%"
+            }
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "question_id": "q_44_ce845b1ae175",
+          "question_number": 44,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "If Amiya runs a campaign focusing on issues, then what is the maximum percentage of votes that she can get?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "40%"
+            },
+            {
+              "option_id": "B",
+              "option_text": "36%"
+            },
+            {
+              "option_id": "C",
+              "option_text": "48%"
+            },
+            {
+              "option_id": "D",
+              "option_text": "44%"
+            }
+          ],
+          "correct_answer": "C"
+        },
+        {
+          "question_id": "q_45_f0a05471bdac",
+          "question_number": 45,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "If Ramya runs a campaign attacking Amiya, then what is the minimum percentage of votes that she is guaranteed to get?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "30%"
+            },
+            {
+              "option_id": "B",
+              "option_text": "15%"
+            },
+            {
+              "option_id": "C",
+              "option_text": "12%"
+            },
+            {
+              "option_id": "D",
+              "option_text": "18%"
+            }
+          ],
+          "correct_answer": "B"
+        },
+        {
+          "question_id": "q_46_284be2029392",
+          "question_number": 46,
+          "section": "DILR",
+          "question_type": "mcq",
+          "question_text": "What is the maximum possible voting margin with which one of the candidates can win?",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "20%"
+            },
+            {
+              "option_id": "B",
+              "option_text": "29%"
+            },
+            {
+              "option_id": "C",
+              "option_text": "26%"
+            },
+            {
+              "option_id": "D",
+              "option_text": "28%"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_47_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_47_2bfc832aa870",
+          "question_number": 47,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "When 10100 is divided by 7, the remainder is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "6"
+            },
+            {
+              "option_id": "B",
+              "option_text": "1"
+            },
+            {
+              "option_id": "C",
+              "option_text": "4"
+            },
+            {
+              "option_id": "D",
+              "option_text": "3"
+            }
+          ],
+          "correct_answer": "C"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_48_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_48_8ab5fb10c557",
+          "question_number": 48,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "Two places A and B are 45 kms apart and connected by a straight road. Anil goes from A to B while Sunil goes from B to A. Starting at the same time, they cross each other in exactly 1 hour 30 minutes. If Anil reaches B exactly 1 hour 15 minutes after Sunil reaches A, the speed of Anil, in km per hour, is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "14"
+            },
+            {
+              "option_id": "B",
+              "option_text": "12"
+            },
+            {
+              "option_id": "C",
+              "option_text": "16"
+            },
+            {
+              "option_id": "D",
+              "option_text": "18"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_49_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_49_5aa3919c8561",
+          "question_number": 49,
+          "section": "QA",
+          "question_type": "tita",
+          "question_text": "There are four numbers such that average of first two numbers is 1 more than the first number, average of first three numbers is 2 more than average of first two numbers, and average of first four numbers is 3 more than average of first three numbers. Then, the difference between the largest and the smallest numbers, is",
+          "correct_answer": "15"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_50_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_50_2e9d7fb3828d",
+          "question_number": 50,
+          "section": "QA",
+          "question_type": "tita",
+          "question_text": "The sum of all four-digit numbers that can be formed with the distinct non-zero digits a, b, c, and d, with each digit appearing exactly once in every number, is 153310 + n, where n is a single digit natural number. Then, the value of (a + b + c + d + n) is",
+          "correct_answer": "31"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_51_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_51_98b1ffabadb6",
+          "question_number": 51,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "In September, the incomes of Kamal, Amal and Vimal are in the ratio 8 : 6 : 5. They rent a house together, and Kamal pays 15%, Amal pays 12% and Vimal pays 18% of their respective incomes to cover the total house rent in that month. In October, the house rent remains unchanged while their incomes increase by 10%, 12% and 15%, respectively. In October, the percentage of their total income that will be paid as house rent, is nearest to",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "13.26"
+            },
+            {
+              "option_id": "B",
+              "option_text": "14.84"
+            },
+            {
+              "option_id": "C",
+              "option_text": "12.75"
+            },
+            {
+              "option_id": "D",
+              "option_text": "15.18"
+            }
+          ],
+          "correct_answer": "A"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_52_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_52_b78c0a973681",
+          "question_number": 52,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "An amount of Rs 10000 is deposited in bank A for a certain number of years at a simple interest of 5% per annum. On maturity, the total amount received is deposited in bank B for another 5 years at a simple interest of 6% per annum. If the interests received from bank A and bank B are in the ratio 10 : 13, then the investment period, in years, in bank A is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "4"
+            },
+            {
+              "option_id": "B",
+              "option_text": "6"
+            },
+            {
+              "option_id": "C",
+              "option_text": "3"
+            },
+            {
+              "option_id": "D",
+              "option_text": "5"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_53_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_53_88c6e2bd9c6c",
+          "question_number": 53,
+          "section": "QA",
+          "question_type": "tita",
+          "question_text": "If the equations x2 + mx + 9 = 0, x2 + nx + 17 = 0 and x2 + (m + n) x + 35 = 0 have a common negative root, then the value of (2m + 3m) is",
+          "correct_answer": "38"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_54_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_54_fe43ae23480b",
+          "question_number": 54,
+          "section": "QA",
+          "question_type": "tita",
+          "question_text": "If x is a positive real number such that 4 log10 x + 4 log100 x + 8 log 1000 x = 13, then greatest integer not exceeding x, is",
+          "correct_answer": "31"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_55_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_55_6fad758de2a5",
+          "question_number": 55,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "Let x, y, and z be real numbers satisfying 4(x2 + y2 + z2) = a and 4(x – y – z) = 3 + a. Then a equals",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "3"
+            },
+            {
+              "option_id": "B",
+              "option_text": "1"
+            },
+            {
+              "option_id": "C",
+              "option_text": "3"
+            },
+            {
+              "option_id": "D",
+              "option_text": "4"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_56_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_56_7881b8b74407",
+          "question_number": 56,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "In the XY-plane, the area, in sq. units, of the region defined by the inequalities y ≥ x + 4 and – 4 ≤ x2 + y2 + 5 (x – y) ≤ 0 is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "3π"
+            },
+            {
+              "option_id": "B",
+              "option_text": "2π"
+            },
+            {
+              "option_id": "C",
+              "option_text": "π"
+            },
+            {
+              "option_id": "D",
+              "option_text": "4π"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_57_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_57_f341676e810b",
+          "question_number": 57,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "A glass is filled with milk. Two-thirds of its content is poured out and replaced with water. If this process of pouring out two-thirds the content and replacing with water is repeated three more times, then the final ratio of milk to water in the glass, is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "1 : 26"
+            },
+            {
+              "option_id": "B",
+              "option_text": "1 : 80"
+            },
+            {
+              "option_id": "C",
+              "option_text": "1 : 27"
+            },
+            {
+              "option_id": "D",
+              "option_text": "1 : 81"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_58_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_58_fde1471210e1",
+          "question_number": 58,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "Consider two sets A = {2, 3, 5, 7, 11, 13} and B = {1, 8, 27}. Let f be a function from A to B such that for every element D in B, there is at least one element a in A such that f(a) = b. Then, the total number of such functions f is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "667"
+            },
+            {
+              "option_id": "B",
+              "option_text": "540"
+            },
+            {
+              "option_id": "C",
+              "option_text": "537"
+            },
+            {
+              "option_id": "D",
+              "option_text": "665"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_59_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_59_c5d32ea3859d",
+          "question_number": 59,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "The surface area of a closed rectangular box, which is inscribed in a sphere, is 846 sq cm, and the sum of the lengths of all its edges is 144 cm. The volume, in cubic cm, of the sphere is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "1125\u0003\u0002"
+            },
+            {
+              "option_id": "B",
+              "option_text": "750\u0003\u0002"
+            },
+            {
+              "option_id": "C",
+              "option_text": "1125\u0003"
+            },
+            {
+              "option_id": "D",
+              "option_text": "750\u0003"
+            }
+          ],
+          "correct_answer": "A"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_60_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_60_a39a26d11e93",
+          "question_number": 60,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "The selling price of a product is fixed to ensure 40% profit. If the product had cost 40% less and had been sold for 5 rupees less, then the resulting profit would have been 50%. The original selling price, in rupees, of the product is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "10"
+            },
+            {
+              "option_id": "B",
+              "option_text": "15"
+            },
+            {
+              "option_id": "C",
+              "option_text": "20"
+            },
+            {
+              "option_id": "D",
+              "option_text": "14"
+            }
+          ],
+          "correct_answer": "D"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_61_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_61_4179ec502af4",
+          "question_number": 61,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "A shop wants to sell a certain quantity (in kg) of grains. It sells half the quantity and an additional 3 kg of these grains to the first customer. Then, it sells half of the remaining quantity and an additional 3 kg of these grains to the second customer. Finally, when the shop sells half of the remaining quantity and an additional 3 kg of these grains to the third customer, there are no grains left. The initial quantity, in kg, of grains is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "42"
+            },
+            {
+              "option_id": "B",
+              "option_text": "18"
+            },
+            {
+              "option_id": "C",
+              "option_text": "36"
+            },
+            {
+              "option_id": "D",
+              "option_text": "50"
+            }
+          ],
+          "correct_answer": "A"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_62_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_62_7a1e91aaf5c3",
+          "question_number": 62,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "If (a + b^n) is the positive square root of (29 \u00020 12\u00025 ), where a and b are integers, and n is a natural number, then the maximum possible value of (a + b + n) is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "4"
+            },
+            {
+              "option_id": "B",
+              "option_text": "18"
+            },
+            {
+              "option_id": "C",
+              "option_text": "6"
+            },
+            {
+              "option_id": "D",
+              "option_text": "22"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_63_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_63_40eafa349be0",
+          "question_number": 63,
+          "section": "QA",
+          "question_type": "tita",
+          "question_text": "ABCD is a rectangle with sides AB = 56 cm and BC = 45 cm, and E is the midpoint of side CD. Then, the length, in cm, of radius of in circle of \u00039ADE is",
+          "correct_answer": "10"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_64_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_64_df70888eee0e",
+          "question_number": 64,
+          "section": "QA",
+          "question_type": "tita",
+          "question_text": "A fruit seller has a total of 187 fruits consisting of apples, mangoes and oranges. The number of apples and mangoes are in the ratio 5 : 2. After she sells 75 apples, 26 mangoes and half of the oranges, the ratio of number of unsold apples to number of unsold oranges becomes 3: 2. The total number of unsold fruits is",
+          "correct_answer": "66"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_65_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_65_63dedaab72a7",
+          "question_number": 65,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "The sum of all real values of k for which (k^(1/3) * 1/k) * 32768^(1/8) = (1/32768)^(1/8), is",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "-3/4"
+            },
+            {
+              "option_id": "B",
+              "option_text": "-3/2"
+            },
+            {
+              "option_id": "C",
+              "option_text": "3/4"
+            },
+            {
+              "option_id": "D",
+              "option_text": "3/2"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_66_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_66_53d68a42c7c5",
+          "question_number": 66,
+          "section": "QA",
+          "question_type": "mcq",
+          "question_text": "Suppose x1, x2, x3, \u0000\u0000 x100 are in arithmetic progression such that x5 = \u000204 and 2x6, 2x9 = x11 + x13. Then, x100 equals.",
+          "options": [
+            {
+              "option_id": "A",
+              "option_text": "204"
+            },
+            {
+              "option_id": "B",
+              "option_text": "-194"
+            },
+            {
+              "option_id": "C",
+              "option_text": "206"
+            },
+            {
+              "option_id": "D",
+              "option_text": "-196"
+            }
+          ],
+          "correct_answer": "B"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_67_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_67_700b069ad62c",
+          "question_number": 67,
+          "section": "QA",
+          "question_type": "tita",
+          "question_text": "Renu would take 15 days working 4 hours per day to complete a certain task whereas Seema would take 8 days working 5 hours per day to complete the same task. They decide to work together to complete this task. Seema agrees to work for double the number of hours per day as Renu, while Renu agrees to work for double the number of days as Seema. If Renu works 2 hours per day, then the number of days Seema will work, is",
+          "correct_answer": "6"
+        }
+      ],
+      "image_link": null
+    },
+    {
+      "set_id": "set_68_d3c583412a36",
+      "section": "QA",
+      "questions": [
+        {
+          "question_id": "q_68_25f3008d278a",
+          "question_number": 68,
+          "section": "QA",
+          "question_type": "tita",
+          "question_text": "For any natural number n, let a_n be the largest integer not exceeding \u0003n. Then the value of a_1 + a_2 + \u0003 + a_50 is",
+          "correct_answer": "217"
+        }
+      ],
+      "image_link": null
+    }
+  ]
+}
